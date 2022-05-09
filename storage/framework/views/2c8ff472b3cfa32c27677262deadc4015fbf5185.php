@@ -1,0 +1,2 @@
+<h1>Microwave not found!</h1>
+Microwave not found, please try to choose another one<?php /**PATH C:\Georgiy\OpenServer\domains\Microwave\resources\views/errors/microwave-not-found.blade.php ENDPATH**/ ?>
